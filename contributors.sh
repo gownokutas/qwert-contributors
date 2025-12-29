@@ -31,7 +31,6 @@ while true; do
     case $choice in
 
         *)
-            echo "Zamykanie skryptu..."
             exit 0
             ;;
     esac
