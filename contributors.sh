@@ -26,12 +26,3 @@ while true; do
     echo "  "
     echo "© 2025 Linuxiarz na etacie :). Wszelkie prawa zastrzeżone.
     echo "+------------------------------------------------------------+"
-    choice
-
-    case $choice in
-
-        *)
-            exit 0
-            ;;
-    esac
-done
