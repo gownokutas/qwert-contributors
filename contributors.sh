@@ -26,7 +26,7 @@ while true; do
     echo "  "
     echo "© 2025 Linuxiarz na etacie :). Wszelkie prawa zastrzeżone.
     echo "+------------------------------------------------------------+"
-    read -p Nacisnij dowolny klawisz aby zamknac skrypt:  choice
+    choice
 
     case $choice in
 
