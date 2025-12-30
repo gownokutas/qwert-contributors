@@ -1,13 +1,3 @@
-# +------------------------------------------------------------+
-# CONTRBUTORS-SK
-# AUTORSTWA: Qwertyk12345
-# GITHUB: https://github.com/@gownokutas
-# DISCORD: hbfghfgh_24146
-# TELEGRAM: https://t.me/pomocinformatyczn
-# +------------------------------------------------------------+
-# NIE ZEZWALAM NA USUNIĘCIE TEGO WATERMARKA ANI MONETYZOWANIE
-# MOJEJ PRACY BEZ MOJEJ ZGODY!
-# +------------------------------------------------------------+
 clear
 echo "+------------------------------------------------------------+"
 echo "           TUTAJ ZNAJDUJA SIE LINKI DO PROJEKTOW"
