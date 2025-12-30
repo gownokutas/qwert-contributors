@@ -8,7 +8,6 @@
 # NIE ZEZWALAM NA USUNIĘCIE TEGO WATERMARKA ANI MONETYZOWANIE
 # MOJEJ PRACY BEZ MOJEJ ZGODY!
 # +------------------------------------------------------------+
-done
 clear
 echo "+------------------------------------------------------------+"
 echo "           TUTAJ ZNAJDUJA SIE LINKI DO PROJEKTOW"
