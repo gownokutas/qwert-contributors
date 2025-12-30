@@ -21,3 +21,4 @@ echo "Instalator Docker'a: https://github.com/gownokutas/docker-installer"
 echo "Instalator Windows 10: https://github.com/dockur/windows | https://github.com/gownokutas/install-windows"
 echo "Menu CONTRIBUTORS-SK: https://github.com/gownokutas/qwert-contributors"
 echo "+------------------------------------------------------------+"
+exit 0
